@@ -1,0 +1,20 @@
+body{  background-color:#c1d5e0;  }
+
+h1{
+    color:#544A5E; 
+    border:2px;
+}
+
+h2{
+    border:2px;
+    color:#211C20  
+    }
+
+a{ color:#0043ca;   }
+
+header a { color:#E87F61; }
+
+.byline{ opacity:0.5;   }
+
+#page_copyright{ color:#002171;  }
+
