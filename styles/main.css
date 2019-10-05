@@ -14,7 +14,9 @@ a{ color:#0043ca;   }
 
 header a { color:#E87F61; }
 
-.byline{ opacity:0.5;   }
+.byline { 
+    color: rgba(0,0,0,0.5);
+}
 
-#page_copyright{ color:#002171;  }
+#page-copyright{ color:#002171;  }
 
